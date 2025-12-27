@@ -1,5 +1,9 @@
 # 💫 About Me:
-Artificial Intelligence Enthusiast.<br>I'm Data Analyst.<br>AI Student At DHA Suffa University.<br>Currently Learning Backend Development.<br>
+Artificial Intelligence student with a strong interest in Data Analysis, Data Engineering, and Backend Development (MongoDB, Express.js, Node.js).
+
+Skilled in Python, SQL, and Power BI, and currently learning backend development using MongoDB, Express.js, and Node.js.
+Focused on building real-world projects, solving practical problems, and writing clean, efficient code.
+Continuously improving skills to create scalable, data-driven, and impactful software solutions.<br>
 
 
 ## 🌐 Socials:
