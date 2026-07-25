@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Artificial Intelligence student with a strong interest in Data Analysis, Data Engineering, and Backend Development (MongoDB, Express.js, Node.js).
 
 Skilled in Python, SQL, and Power BI, and currently learning backend development using MongoDB, Express.js, and Node.js.
