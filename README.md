@@ -1,10 +1,17 @@
 # About Me:
-Artificial Intelligence student with a strong interest in Data Analysis, Data Engineering, and Backend Development (MongoDB, Express.js, Node.js).
+Building at the intersection of 𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀, 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 and 𝗔𝗿𝘁𝗶𝗳𝗶𝗰𝗶𝗮𝗹 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲 with a focus on turning ideas and real-world problems into practical, scalable technology.
 
-Skilled in Python, SQL, and Power BI, and currently learning backend development using MongoDB, Express.js, and Node.js.
-Focused on building real-world projects, solving practical problems, and writing clean, efficient code.
-Continuously improving skills to create scalable, data-driven, and impactful software solutions.<br>
+My journey is driven by a simple belief: technology becomes truly valuable when strong engineering is connected with a clear understanding of people, products, and business needs.
 
+With a growing foundation in software engineering and AI, I’m focused on building solutions that are not only technically sound but also useful, scalable, and capable of creating real impact.
+
+The long-term vision is to build and contribute to AI-powered products and businesses that solve meaningful problems and turn technology into measurable value.
+
+Always learning. Always building. Always looking for the next problem worth solving.
+
+
+
+𝗕𝘂𝗶𝗹𝗱. 𝗦𝗼𝗹𝘃𝗲. 𝗦𝗰𝗮𝗹𝗲.
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ateeq-ur-rehman-5a588b2b9/) 
