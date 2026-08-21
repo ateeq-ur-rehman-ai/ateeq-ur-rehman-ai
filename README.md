@@ -1,15 +1,31 @@
 # About Me:
-Building at the intersection of 𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀, 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 and 𝗔𝗿𝘁𝗶𝗳𝗶𝗰𝗶𝗮𝗹 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲 with a focus on turning ideas and real-world problems into practical, scalable technology.
+𝐁𝐮𝐢𝐥𝐝𝐢𝐧𝐠 𝐚𝐭 𝐭𝐡𝐞 𝐢𝐧𝐭𝐞𝐫𝐬𝐞𝐜𝐭𝐢𝐨𝐧 𝐨𝐟 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠, 𝐀𝐫𝐭𝐢𝐟𝐢𝐜𝐢𝐚𝐥 𝐈𝐧𝐭𝐞𝐥𝐥𝐢𝐠𝐞𝐧𝐜𝐞, 𝐚𝐧𝐝 𝐁𝐮𝐬𝐢𝐧𝐞𝐬𝐬.
 
-My journey is driven by a simple belief: technology becomes truly valuable when strong engineering is connected with a clear understanding of people, products, and business needs.
+My work focuses on developing backend systems, AI-powered applications, and SaaS products while applying strong software engineering principles to solve real-world problems. I’m particularly interested in building scalable, reliable, and practical technology solutions that create meaningful value.
 
-With a growing foundation in software engineering and AI, I’m focused on building solutions that are not only technically sound but also useful, scalable, and capable of creating real impact.
+Alongside my technical journey, I work as a Founder of an AI & SaaS startup, where I focus on identifying market problems, developing product strategies, and translating business challenges into technology-driven solutions. This experience allows me to combine technical execution, strategic thinking, and product development.
 
-The long-term vision is to build and contribute to AI-powered products and businesses that solve meaningful problems and turn technology into measurable value.
+My technical experience spans Backend Development, API Development, Python, AI, Machine Learning, Generative AI, Databases, Data Analytics, and Data Engineering. I have also worked with tools and technologies such as SQL, Power BI, Web Scraping, Git, Docker, and cloud technologies.
+
+My career direction is focused on becoming a strong AI Engineer with a solid Software Engineering foundation, capable of building intelligent systems from the backend and engineering layer through to practical product deployment.
+
+Core Focus:
+
+• Software Engineering & Backend Development
+
+• Artificial Intelligence & AI Engineering
+
+• AI-Powered & SaaS Product Development
+
+• APIs, Databases & Scalable Systems
+
+• Machine Learning & Generative AI
+
+• Product & Business Strategy
+
+• Data Analytics & Data Engineering
 
 Always learning. Always building. Always looking for the next problem worth solving.
-
-
 
 𝗕𝘂𝗶𝗹𝗱. 𝗦𝗼𝗹𝘃𝗲. 𝗦𝗰𝗮𝗹𝗲.
 
